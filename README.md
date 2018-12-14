@@ -18,8 +18,5 @@ git push origin master
 >
 > ## This is an H2 in a blockquote
 
-<p>Some of these words <em>are emphasized</em>.
-Some of these words <em>are emphasized also</em>.</p>
-
-<p>Use two asterisks for <strong>strong emphasis</strong>.
-Or, if you prefer, <strong>use two underscores instead</strong>.</p>
+<p>I start my morning with a cup of coffee and
+<a href="http://www.nytimes.com/">The New York Times</a>.</p>
