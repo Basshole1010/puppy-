@@ -32,3 +32,10 @@ title="MSN Search">MSN</a>.</p>
 <a href="http://www.nytimes.com/">The New York Times</a>.</p>
 
 <img src="/path/to/img.jpg" alt="alt text" title="Title" />
+
+<p>I strongly recommend against using any
+<code>&lt;blink&gt;</code> tags.</p>
+
+<p>I wish SmartyPants used named entities like
+<code>&amp;mdash;</code> instead of decimal-encoded
+entites like <code>&amp;#8212;</code>.</p>
