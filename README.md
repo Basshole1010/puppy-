@@ -27,3 +27,6 @@ git push origin master
 title="Google">Google</a> than from <a href="http://search.yahoo.com/"
 title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/"
 title="MSN Search">MSN</a>.</p>
+
+<p>I start my morning with a cup of coffee and
+<a href="http://www.nytimes.com/">The New York Times</a>.</p>
