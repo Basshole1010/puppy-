@@ -30,3 +30,5 @@ title="MSN Search">MSN</a>.</p>
 
 <p>I start my morning with a cup of coffee and
 <a href="http://www.nytimes.com/">The New York Times</a>.</p>
+
+<img src="/path/to/img.jpg" alt="alt text" title="Title" />
