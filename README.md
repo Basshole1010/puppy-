@@ -20,3 +20,10 @@ git push origin master
 
 <p>I start my morning with a cup of coffee and
 <a href="http://www.nytimes.com/">The New York Times</a>.</p>
+
+
+
+<p>I get 10 times more traffic from <a href="http://google.com/"
+title="Google">Google</a> than from <a href="http://search.yahoo.com/"
+title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/"
+title="MSN Search">MSN</a>.</p>
